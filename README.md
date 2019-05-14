@@ -3,6 +3,8 @@
 <p>The banker’s algorithm is a resource allocation and deadlock avoidance algorithm that tests for safety by simulating 
 the allocation for predetermined maximum possible amounts of all resources, then makes an “s-state” check 
 to test for possible activities, before deciding whether allocation should be allowed to continue.</p>
+<h3>OPTIMAL PAGE REPLACEMENT ALGORITHM</h3>
+<p> when a page needs to be swapped in, the operating system swaps out the page whose next use will occur farthest in the future.</p>
 <h3>2.DINING PHILOSOPHERS PROBLEM</h3>
 <p>The dining philosophers problem is another classic synchronization problem which is used to evaluate situations where there is a need of allocating multiple resources to multiple processes.</p>
 <h3>3.Preemptive Priority Scheduling</h3>
